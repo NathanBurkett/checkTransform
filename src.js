@@ -8,7 +8,7 @@
 
 function transformSupport() {
 
-    const arr = [
+    var arr = [
         'msTransform',
         'OTransform',
         'MozTransform',
